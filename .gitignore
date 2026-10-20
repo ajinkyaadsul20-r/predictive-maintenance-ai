@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated model artifacts
+*.joblib
+*.pkl
+
+# Generated plots (the README image lives in images/)
+/pm_results.png
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
